@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+*{
+   box-sizing: border-box;
+}
+
+body{
+   font-family: 'Montserrat', sans-serif;
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+   margin: 0;
+   height: 100vh;
+   overflow: hidden;
+   background-color: #ecf0f1;
+}
+
+.main-container{
+   background-color: #3867d6;
+   min-width: 600px;
+   max-width: 900px;
+   max-height: 320px;
+   border-radius: 15px;
+   box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
+   padding: 60px 100px;
+   font-size: 1.2rem;
+   color: #eee;
+   display: flex;
+   align-items: center;
+   justify-content: space-around;
+   flex-direction: column;
+   position: relative;
+}
+
+.main-container .line-bar{
+   background-color: #fff;
+   position: absolute;
+   top: 25px;
+   left: 120px;
+   width: 0;
+   height: 3px;
+   margin-top: 30px;
+   transition: width 1s linear;
+}
+
+.main-container i{
+   position: absolute;
+   font-size: 70px;
+   opacity: 0.4;
+}
+
+.main-container i.fa-quote-left{
+   top: 70px;
+   left: 20px;
+}
+
+.main-container i.fa-quote-right{
+   top: 70px;
+   right: 20px;
+}
+
+.main-container .profile-container{
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   flex-direction: row;
+   gap: 20px;
+}
+
+.main-container .testimonial-container .testimonial{
+   margin-left: 20px;
+}
+
+.main-container .profile-container .img-container img{
+   width: 100px;
+   height: 100px;
+   border-radius: 50%;
+   position: center;
+}
+
+.main-container .profile-container .details-container{
+
+   display: flex;
+   align-items: flex-start;
+   justify-content: flex-start;
+   flex-direction: column;
+   gap: 10px;
+}

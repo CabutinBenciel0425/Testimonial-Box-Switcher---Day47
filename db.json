@@ -1,0 +1,144 @@
+{
+  "testimonials": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "designation": "Graphic Designer",
+      "avatar": "https://randomuser.me/api/portraits/men/37.jpg",
+      "lorem": "This product completely transformed how I approach design. The intuitive layout, smooth transitions, and modular components make every project feel polished and professional. I can't imagine working without it now."
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "designation": "UI/UX Specialist",
+      "avatar": "https://randomuser.me/api/portraits/women/45.jpg",
+      "lorem": "From the moment I integrated this into my workflow, everything felt more fluid. The attention to detail in animations and accessibility features is outstanding. It’s a game-changer for modern interface design."
+    },
+    {
+      "id": 3,
+      "name": "Carlos Mendoza",
+      "designation": "Frontend Developer",
+      "avatar": "https://randomuser.me/api/portraits/men/21.jpg",
+      "lorem": "The modular architecture and semantic structure make this tool a dream for frontend developers. I’ve built scalable components faster than ever, and the branded UI polish adds a premium feel to every app."
+    },
+    {
+      "id": 4,
+      "name": "Emily Zhang",
+      "designation": "Product Manager",
+      "avatar": "https://randomuser.me/api/portraits/women/32.jpg",
+      "lorem": "Our team’s productivity soared after adopting this system. The clarity in component logic and the cinematic transitions help us deliver experiences that users genuinely enjoy. It’s now a core part of our toolkit."
+    },
+    {
+      "id": 5,
+      "name": "Liam O'Connor",
+      "designation": "Backend Engineer",
+      "avatar": "https://randomuser.me/api/portraits/men/12.jpg",
+      "lorem": "Even as a backend engineer, I appreciate the clean API integration and error handling. The frontend team loves the branded animations, and I love how easy it is to plug into our existing infrastructure."
+    },
+    {
+      "id": 6,
+      "name": "Ava Thompson",
+      "designation": "Marketing Strategist",
+      "avatar": "https://randomuser.me/api/portraits/women/19.jpg",
+      "lorem": "This platform helped us elevate our brand presence online. The testimonial components, transitions, and layout flexibility allow us to showcase client stories in a way that feels authentic and emotionally engaging."
+    },
+    {
+      "id": 7,
+      "name": "Noah Kim",
+      "designation": "Full Stack Developer",
+      "avatar": "https://randomuser.me/api/portraits/men/28.jpg",
+      "lorem": "I’ve worked with countless UI libraries, but this one stands out. The branded feedback, modular event logic, and responsive design make it ideal for full stack applications that need both power and polish."
+    },
+    {
+      "id": 8,
+      "name": "Sophia Lee",
+      "designation": "Content Creator",
+      "avatar": "https://randomuser.me/api/portraits/women/50.jpg",
+      "lorem": "Creating content that feels alive is easier with this tool. The cinematic transitions and ambient shadows give every testimonial a story-like quality. It’s perfect for building trust and engagement with audiences."
+    },
+    {
+      "id": 9,
+      "name": "Ethan Brown",
+      "designation": "QA Analyst",
+      "avatar": "https://randomuser.me/api/portraits/men/41.jpg",
+      "lorem": "Testing UI components used to be tedious, but this system’s clarity and modularity make it a breeze. Every element behaves predictably, and the branded polish helps us catch visual bugs early."
+    },
+    {
+      "id": 10,
+      "name": "Olivia Davis",
+      "designation": "Brand Consultant",
+      "avatar": "https://randomuser.me/api/portraits/women/22.jpg",
+      "lorem": "I recommend this platform to every client looking to elevate their digital presence. The testimonial switcher alone adds a layer of credibility and emotional connection that most brands struggle to achieve."
+    },
+    {
+      "id": 11,
+      "name": "Mason Green",
+      "designation": "DevOps Engineer",
+      "avatar": "https://randomuser.me/api/portraits/men/33.jpg",
+      "lorem": "While I focus on deployment and infrastructure, I admire how this tool integrates seamlessly with CI/CD pipelines. The modular structure means fewer surprises during builds and faster iteration cycles."
+    },
+    {
+      "id": 12,
+      "name": "Isabella Martinez",
+      "designation": "Visual Designer",
+      "avatar": "https://randomuser.me/api/portraits/women/27.jpg",
+      "lorem": "Every visual element feels handcrafted. The transitions, spacing, and typography are so well thought out. It’s rare to find a tool that respects both design aesthetics and technical scalability."
+    },
+    {
+      "id": 13,
+      "name": "James Wilson",
+      "designation": "CTO",
+      "avatar": "https://randomuser.me/api/portraits/men/16.jpg",
+      "lorem": "This is the kind of architecture I want my team to follow. It’s clean, scalable, and emotionally resonant. The branded testimonial components are especially effective for showcasing client success stories."
+    },
+    {
+      "id": 14,
+      "name": "Chloe Nguyen",
+      "designation": "Interaction Designer",
+      "avatar": "https://randomuser.me/api/portraits/women/36.jpg",
+      "lorem": "Transitions are smooth, immersive, and brand-aligned. The testimonial switcher feels like a conversation, not just a UI element. It’s a joy to design with tools that understand emotional flow."
+    },
+    {
+      "id": 15,
+      "name": "Benjamin Scott",
+      "designation": "Tech Lead",
+      "avatar": "https://randomuser.me/api/portraits/men/44.jpg",
+      "lorem": "I’ve led teams through countless UI rebuilds, and this system is the most developer-friendly I’ve seen. The modular logic and branded polish make it easy to onboard and scale across projects."
+    },
+    {
+      "id": 16,
+      "name": "Grace Patel",
+      "designation": "Accessibility Advocate",
+      "avatar": "https://randomuser.me/api/portraits/women/40.jpg",
+      "lorem": "Semantic structure and ARIA support are spot-on. It’s refreshing to see a tool that doesn’t treat accessibility as an afterthought. Every testimonial is readable, navigable, and inclusive by design."
+    },
+    {
+      "id": 17,
+      "name": "Lucas Rivera",
+      "designation": "Mobile Developer",
+      "avatar": "https://randomuser.me/api/portraits/men/25.jpg",
+      "lorem": "Responsive design works flawlessly across devices. Whether it’s a phone, tablet, or desktop, the testimonial layout adapts beautifully. The transitions feel native and fluid, even on low-powered devices."
+    },
+    {
+      "id": 18,
+      "name": "Mia Robinson",
+      "designation": "Creative Director",
+      "avatar": "https://randomuser.me/api/portraits/women/12.jpg",
+      "lorem": "The visual storytelling is powerful and elegant. I use this tool to craft brand narratives that resonate. The testimonial switcher adds depth and authenticity to every campaign we launch."
+    },
+    {
+      "id": 19,
+      "name": "Henry Adams",
+      "designation": "Data Scientist",
+      "avatar": "https://randomuser.me/api/portraits/men/49.jpg",
+      "lorem": "Data visualization components are clean and scalable, but the testimonial module surprised me. It’s a brilliant way to humanize analytics and show real-world impact through client voices."
+    },
+    {
+      "id": 20,
+      "name": "Ella Brooks",
+      "designation": "Digital Strategist",
+      "avatar": "https://randomuser.me/api/portraits/women/18.jpg",
+      "lorem": "This tool helped us elevate our brand presence online. The testimonial switcher, paired with cinematic transitions and modular logic, creates a user experience that feels both premium and personal."
+    }
+  ]
+}
